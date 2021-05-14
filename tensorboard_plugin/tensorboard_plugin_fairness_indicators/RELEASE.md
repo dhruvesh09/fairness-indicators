@@ -6,6 +6,10 @@
 
 ## Bug Fixes and Other Changes
 
+*   Depends on `tensorboard>=2.5.0,<3`.
+*   Depends on `tensorflow>=2.5.0,<3`.
+*   Depends on `tensorflow-model-analysis>=0.30,<0.31`.
+
 ## Breaking Changes
 
 ## Deprecations
